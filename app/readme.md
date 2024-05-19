@@ -1,1 +1,0 @@
-This is my gapminder app. You can find it under gapminder.victorbarbay.me
